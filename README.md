@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# A Task-tracking web application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo
+### Adding To-do tasks
+<img src='https://github.com/kuscholar/Task-tracking-React/blob/8ce49d937a25fb9940e4bbc4d897be50985a619b/demo_pics/Adding%20Tasks.png'>
+
+### Showing tasks
+<img src='https://github.com/kuscholar/Task-tracking-React/blob/8ce49d937a25fb9940e4bbc4d897be50985a619b/demo_pics/Showing%20Tasks.png'>
 
 ## Available Scripts
 
