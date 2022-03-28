@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to use
+#### To add a task: click on 'Add', and put in task infos
+#### To set reminder: double click on the task, and it will be showing a green bar if reminder is set
+#### To delete a task: click on the red cross
 ## Demo
 ### Adding To-do tasks
 <img src='https://github.com/kuscholar/Task-tracking-React/blob/8ce49d937a25fb9940e4bbc4d897be50985a619b/demo_pics/Adding%20Tasks.png'>
